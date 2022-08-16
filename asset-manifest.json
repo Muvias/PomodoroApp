@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4dec8b2f.css",
+    "main.js": "/static/js/main.42b16f64.js",
+    "static/media/soundsBellStart.mp3": "/static/media/soundsBellStart.d01df824ed47a5e67a5b.mp3",
+    "static/media/soundsBellFinish.mp3": "/static/media/soundsBellFinish.6b59c479066c2647a002.mp3",
+    "index.html": "/index.html",
+    "main.4dec8b2f.css.map": "/static/css/main.4dec8b2f.css.map",
+    "main.42b16f64.js.map": "/static/js/main.42b16f64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dec8b2f.css",
+    "static/js/main.42b16f64.js"
+  ]
+}
